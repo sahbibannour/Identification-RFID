@@ -1,4 +1,5 @@
-## this package create for RFID technology 
+## Readme
+this package create for use RFID technology with raspberry device 
 
 
 
@@ -12,7 +13,7 @@
 -----
 ## License
 
-Copyright sahbi/jaafar
-Licensed under [MIT].(LICENSE)
+-Copyright sahbi/jaafar
+-Licensed under the [MIT License](LICENSE).
 
 
